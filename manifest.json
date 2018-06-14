@@ -4,7 +4,7 @@
   "name": "Pacman",
   "version": "1.0",
 
-  "description": "Description here.",
+  "description": "This is an upgrated version of the arcade Pacman game",
 
   "icons": {
     "48": "pacman.png"
